@@ -1,6 +1,6 @@
 import numpy as np
 
-s=np.random.normal(loc=0.0,scale=1.0,size=1000)
+s=np.random.normal(loc=30.0,scale=1.0,size=1000)
 
 import matplotlib.pyplot as plt
 
